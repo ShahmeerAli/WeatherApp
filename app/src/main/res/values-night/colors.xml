@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="textColor">#0096c7</color>
+    <color name="cardviewcolor">#00DDF1FA</color>
+    <color name="TextColor2">#0096c7</color>
+    <color name="SearchView">#0096c7</color>
+</resources>
