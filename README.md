@@ -5,6 +5,10 @@
 
 ![day3](https://github.com/user-attachments/assets/b346cb7d-e062-4c33-a591-e5529b927cae)
 
+![night](https://github.com/user-attachments/assets/d2d0cab0-c4c0-4c9d-bef9-21b87f64b7be)
+
+
+
 This app has been made to display the current city temperature.
 You can also search for a location.
 This app uses Alarm manager to send notifications to the user too
