@@ -3,6 +3,7 @@
 
 ![day2](https://github.com/user-attachments/assets/120f1b66-73d6-4aa2-9610-f5e5630f0a13)
 
+![day3](https://github.com/user-attachments/assets/b346cb7d-e062-4c33-a591-e5529b927cae)
 
 This app has been made to display the current city temperature.
 You can also search for a location.
